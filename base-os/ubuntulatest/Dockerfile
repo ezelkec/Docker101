@@ -1,3 +1,4 @@
-FROM centos:centos7
+FROM ubuntu:latest
 CMD ["echo","base","image-tag"]
+
 

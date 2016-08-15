@@ -1,2 +1,3 @@
-FROM centos:centos6.8
+FROM ubuntu:16.04
 CMD ["echo","base","image-tag"]
+
